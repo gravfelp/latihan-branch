@@ -4,3 +4,4 @@ latihan-branch
 --
 *Tony Ferguson*
 *Max Holloway*
+*Dustin Poirier*
